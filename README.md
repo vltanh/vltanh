@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @vltanh
-- 👀 I’m interested in the theoretical foundation of machine learning
-- 📫 Shoot me an email at vltanh@illinois.edu if you want to talk!
+👋 Hi, I’m @vltanh
+
+👀 I’m interested in all things math-related
+
+🔗 Please check out my blog (mainly in Vietnamese): [http://vltanh.github.io/](vltanh.github.io)
+
+📫 Shoot me an email at vltanh@illinois.edu if you want to talk!
 
 <!---
 vltanh/vltanh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
