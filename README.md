@@ -2,7 +2,7 @@
 
 👀 I’m interested in all things math-related
 
-🔗 Please check out my blog (mainly in Vietnamese): [vltanh.github.io](http://vltanh.github.io/)
+🔗 Please check out my personal page: [vltanh.me](http://vltanh.me/)
 
 📫 Shoot me an email at vltanh@illinois.edu if you want to talk!
 
